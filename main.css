@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Krona+One|Montserrat+Subrayada&display=swap');
+
+#text_font_1 {
+    color: white;
+    font-family: 'Montserrat Subrayada', sans-serif;
+}
+.text_font_2 {
+    color: white;
+    font-family: 'Krona One', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+.image1 {
+    background-image: url("island_1.jpg");
+    background-size: 100%;
+}
+.image2 {
+    background-image: url("space_5.jpg");
+    background-size: 100%;
+}
+.image3 {
+    background-image: url("water_5.jpg");
+    background-size: 100%;
+}
+.image4 {
+    background-image: url("leaves.jpg");
+    background-size: 100%;
+}
+.image5 {
+    background-image: url("leaves_2.jpg");
+    background-size: 100%;
+}
+.image6 {
+    background-image: url("lava_2.jpg");
+    background-size: 100%;
+}
+.image7 {
+    background-image: url("embers.jpg");
+    background-size: 100%;
+}
+.image8 {
+    background-image: url("lava_3.jpg");
+    background-size: 100%;
+}
+.image9 {
+    background-image: url("space_3.jpg");
+    background-size: 100%;
+}
+.image10 {
+    background-image: url("space_6.jpg");
+    background-size: 100%;
+}
+.image11 {
+    background-image: url("ocean_sunset.jpg");
+    background-size: 100%;
+}
+.image12 {
+    background-image: url("sun_grass.jpg");
+    background-size: 100%;
+}
