@@ -12,7 +12,14 @@
 .container {
     display: flex;
     justify-content: flex-end;
+    align-content: space-between;
   }
+.container_2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
 .image1 {
     background-image: url("island_1.jpg");
@@ -47,7 +54,7 @@
     background-size: 100%;
 }
 .image9 {
-    background-image: url("space_3.jpg");
+    background-image: url("bark_2.jpg");
     background-size: 100%;
 }
 .image10 {
@@ -59,6 +66,46 @@
     background-size: 100%;
 }
 .image12 {
-    background-image: url("sun_grass.jpg");
+    background-image: url("lion.jpg");
+    background-size: 100%;
+}
+.image13 {
+    background-image: url("rock.jpg");
+    background-size: 100%;
+}
+.image14 {
+    background-image: url("bark.jpg");
+    background-size: 100%;
+}
+.image15 {
+    background-image: url("moss.jpg");
+    background-size: 100%;
+}
+.image16 {
+    background-image: url("seaweed.jpg");
+    background-size: 100%;
+}
+.image17 {
+    background-image: url("flowers.jpg");
+    background-size: 100%;
+}
+.image18 {
+    background-image: url("water_8.jpg");
+    background-size: 100%;
+}
+.image19 {
+    background-image: url("river.jpg");
+    background-size: 100%;
+}
+.image20 {
+    background-image: url("embers_2.jpg");
+    background-size: 100%;
+}
+.image21 {
+    background-image: url("sand_2.jfif");
+    background-size: 100%;
+}
+.image22 {
+    background-image: url("mountains.jfif");
     background-size: 100%;
 }
